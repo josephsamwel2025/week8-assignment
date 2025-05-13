@@ -36,11 +36,7 @@ This project demonstrates the use of primary keys, foreign keys, one-to-many and
 
 ## 🧩 Entity-Relationship Diagram (ERD)
 
-![Clinic Booking System ERD](https://i.imgur.com/qzYzNHo.png)
-
-> 📌 *Click [here](https://i.imgur.com/qzYzNHo.png) to view full size.*
-
----
+![Clinic Booking System ERD](https://github.com/josephsamwel2025/week8-assignment/issues/1#issue-3060994734)
 
 ## 👤 Author
 
