@@ -41,7 +41,7 @@ This project demonstrates the use of primary keys, foreign keys, one-to-many and
 ## 👤 Author
 
 Your Name  
-[Your GitHub Profile](https://github.com/your-username)  
+[JOSEPH MAWEDA](https://github.com/josephsamwel2025)  
 
 ---
 
